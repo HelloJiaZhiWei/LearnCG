@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/relink/Programming/Hw0/Assignment  0/source/build",
+  "command": "/usr/bin/g++  -I\"/home/relink/Programming/Hw0/Assignment  0/source/EIGEN3_INCLUDE_DIR\" -g -o CMakeFiles/Transformation.dir/main.cpp.o -c \"/home/relink/Programming/Hw0/Assignment  0/source/main.cpp\"",
+  "file": "/home/relink/Programming/Hw0/Assignment  0/source/main.cpp"
+}
+]
