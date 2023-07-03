@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/relink/Programming/Homework 3/source/build",
+  "command": "/usr/bin/g++  -I\"/home/relink/Programming/Homework 3/source/./include\" -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/main.cpp.o -c \"/home/relink/Programming/Homework 3/source/main.cpp\"",
+  "file": "/home/relink/Programming/Homework 3/source/main.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 3/source/build",
+  "command": "/usr/bin/g++  -I\"/home/relink/Programming/Homework 3/source/./include\" -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c \"/home/relink/Programming/Homework 3/source/rasterizer.cpp\"",
+  "file": "/home/relink/Programming/Homework 3/source/rasterizer.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 3/source/build",
+  "command": "/usr/bin/g++  -I\"/home/relink/Programming/Homework 3/source/./include\" -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c \"/home/relink/Programming/Homework 3/source/Triangle.cpp\"",
+  "file": "/home/relink/Programming/Homework 3/source/Triangle.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 3/source/build",
+  "command": "/usr/bin/g++  -I\"/home/relink/Programming/Homework 3/source/./include\" -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c \"/home/relink/Programming/Homework 3/source/Texture.cpp\"",
+  "file": "/home/relink/Programming/Homework 3/source/Texture.cpp"
+}
+]
