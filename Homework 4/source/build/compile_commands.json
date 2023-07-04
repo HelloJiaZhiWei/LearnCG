@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/relink/Programming/Homework 4/source/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c \"/home/relink/Programming/Homework 4/source/main.cpp\"",
+  "file": "/home/relink/Programming/Homework 4/source/main.cpp"
+}
+]

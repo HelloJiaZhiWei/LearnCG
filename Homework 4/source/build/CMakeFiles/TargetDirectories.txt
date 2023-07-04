@@ -1,0 +1,3 @@
+/home/relink/Programming/Homework 4/source/build/CMakeFiles/BezierCurve.dir
+/home/relink/Programming/Homework 4/source/build/CMakeFiles/edit_cache.dir
+/home/relink/Programming/Homework 4/source/build/CMakeFiles/rebuild_cache.dir
