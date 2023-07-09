@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/relink/Programming/Homework 5/source/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/main.cpp.o -c \"/home/relink/Programming/Homework 5/source/main.cpp\"",
+  "file": "/home/relink/Programming/Homework 5/source/main.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 5/source/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c \"/home/relink/Programming/Homework 5/source/Scene.cpp\"",
+  "file": "/home/relink/Programming/Homework 5/source/Scene.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 5/source/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c \"/home/relink/Programming/Homework 5/source/Renderer.cpp\"",
+  "file": "/home/relink/Programming/Homework 5/source/Renderer.cpp"
+}
+]
