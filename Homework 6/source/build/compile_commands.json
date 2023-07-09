@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/relink/Programming/Homework 6/source/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/main.cpp.o -c \"/home/relink/Programming/Homework 6/source/main.cpp\"",
+  "file": "/home/relink/Programming/Homework 6/source/main.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 6/source/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c \"/home/relink/Programming/Homework 6/source/Vector.cpp\"",
+  "file": "/home/relink/Programming/Homework 6/source/Vector.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 6/source/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c \"/home/relink/Programming/Homework 6/source/Scene.cpp\"",
+  "file": "/home/relink/Programming/Homework 6/source/Scene.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 6/source/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c \"/home/relink/Programming/Homework 6/source/BVH.cpp\"",
+  "file": "/home/relink/Programming/Homework 6/source/BVH.cpp"
+},
+{
+  "directory": "/home/relink/Programming/Homework 6/source/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c \"/home/relink/Programming/Homework 6/source/Renderer.cpp\"",
+  "file": "/home/relink/Programming/Homework 6/source/Renderer.cpp"
+}
+]

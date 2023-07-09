@@ -1,0 +1,3 @@
+/home/relink/Programming/Homework 6/source/build/CMakeFiles/RayTracing.dir
+/home/relink/Programming/Homework 6/source/build/CMakeFiles/edit_cache.dir
+/home/relink/Programming/Homework 6/source/build/CMakeFiles/rebuild_cache.dir
